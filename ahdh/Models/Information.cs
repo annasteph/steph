@@ -7,14 +7,22 @@ namespace ahdh.Models
 {
     public class Information
     {
+        private static Information _information;
         public List<Account> Accounts;
-
-        public Information() 
+        public static Information Context
         {
-            Accounts = new List<Account>();
-            Accounts.Add(new Account { Id = 1, Name = "My name1", Age = 12 });
-            Accounts.Add(new Account { Id = 2, Name = "My name2", Age = 12 });
-            Accounts.Add(new Account { Id = 3, Name = "My name3", Age = 12 });
+            get
+            {
+                if (_information == null)
+                {
+                    _information = new Information();
+                }
+                return _information;
+            }
+        }
+        private int NextId()
+        {
+            return Accounts.Selected(x => x.Id).Max; + 1;
         }
     }
 }

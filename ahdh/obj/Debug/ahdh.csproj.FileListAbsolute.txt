@@ -32,3 +32,37 @@ c:\users\pt808\documents\visual studio 2010\Projects\ahdh\ahdh\bin\System.Web.We
 c:\users\pt808\documents\visual studio 2010\Projects\ahdh\ahdh\obj\Debug\ResolveAssemblyReference.cache
 c:\users\pt808\documents\visual studio 2010\Projects\ahdh\ahdh\obj\Debug\ahdh.dll
 c:\users\pt808\documents\visual studio 2010\Projects\ahdh\ahdh\obj\Debug\ahdh.pdb
+D:\steph\ahdh\bin\ahdh.dll
+D:\steph\ahdh\bin\ahdh.pdb
+D:\steph\ahdh\bin\Antlr3.Runtime.dll
+D:\steph\ahdh\bin\EntityFramework.dll
+D:\steph\ahdh\bin\Microsoft.Web.Infrastructure.dll
+D:\steph\ahdh\bin\Newtonsoft.Json.dll
+D:\steph\ahdh\bin\System.Net.Http.dll
+D:\steph\ahdh\bin\System.Net.Http.Formatting.dll
+D:\steph\ahdh\bin\System.Net.Http.WebRequest.dll
+D:\steph\ahdh\bin\System.Web.Http.dll
+D:\steph\ahdh\bin\System.Web.Http.WebHost.dll
+D:\steph\ahdh\bin\System.Web.Mvc.dll
+D:\steph\ahdh\bin\System.Web.Optimization.dll
+D:\steph\ahdh\bin\System.Web.Providers.dll
+D:\steph\ahdh\bin\System.Web.Razor.dll
+D:\steph\ahdh\bin\System.Web.WebPages.Deployment.dll
+D:\steph\ahdh\bin\System.Web.WebPages.dll
+D:\steph\ahdh\bin\System.Web.WebPages.Razor.dll
+D:\steph\ahdh\bin\WebGrease.dll
+D:\steph\ahdh\bin\EntityFramework.xml
+D:\steph\ahdh\bin\Newtonsoft.Json.xml
+D:\steph\ahdh\bin\System.Net.Http.xml
+D:\steph\ahdh\bin\System.Net.Http.Formatting.xml
+D:\steph\ahdh\bin\System.Net.Http.WebRequest.xml
+D:\steph\ahdh\bin\System.Web.Http.xml
+D:\steph\ahdh\bin\System.Web.Http.WebHost.xml
+D:\steph\ahdh\bin\System.Web.Mvc.xml
+D:\steph\ahdh\bin\System.Web.Razor.xml
+D:\steph\ahdh\bin\System.Web.WebPages.xml
+D:\steph\ahdh\bin\System.Web.WebPages.Deployment.xml
+D:\steph\ahdh\bin\System.Web.WebPages.Razor.xml
+D:\steph\ahdh\obj\Debug\ResolveAssemblyReference.cache
+D:\steph\ahdh\obj\Debug\ahdh.dll
+D:\steph\ahdh\obj\Debug\ahdh.pdb

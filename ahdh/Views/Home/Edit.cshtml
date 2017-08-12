@@ -1,0 +1,32 @@
+﻿@model ahdh.Models.Account
+
+@using (Html.BeginForm("Save", "Home"))
+{
+
+  @Html.LabelFor(a => a.Id)
+  @Html.EditorFor(a => a.Id)
+  <text>&nbsp</text>
+
+  @Html.LabelFor(a => a.Name)
+  @Html.EditorFor(a => a.Name)
+  <text>&nbsp</text>
+
+  @Html.LabelFor(a => a.Age)
+  @Html.EditorFor(a => a.Age)
+  <text>&nbsp</text>
+    
+  @Html.LabelFor(a => a.Password)
+  @Html.EditorFor(a => a.Password)
+  <text>&nbsp</text>
+    
+  @Html.LabelFor(a => a.Address)
+  @Html.EditorFor(a => a.Address)
+  <text>&nbsp</text>
+    
+  @Html.LabelFor(a => a.Username)
+  @Html.EditorFor(a => a.Username)
+  <text>&nbsp</text>
+
+  <input type="submit" value="save"/>
+}
+
